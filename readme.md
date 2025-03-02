@@ -1,5 +1,7 @@
 # Spring Boot + Thymeleaf + REST API Project
 
+Part of the code examples from `Web Development Concepts for Everyone` course by Scott Bromander.
+
 This is a simple **Spring Boot** project using **Thymeleaf** for server-side rendering and a basic **REST API** to serve data. The client-side JavaScript fetches data from the API and dynamically updates the page.
 
 ---
